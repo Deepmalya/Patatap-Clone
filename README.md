@@ -1,0 +1,2 @@
+# The Patatap Clone
+A working clone(albeit with fewer features) of the famous Patatap application by Jono Brandel and Japanese electronic duo Lullatone, consisting of Shawn James Seymour and Yoshimi Tomida. 
